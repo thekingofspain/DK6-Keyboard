@@ -13,4 +13,5 @@ The physical magnet key unit that holds the Mx Switch.
 KeyTap:
 When a user's keystroke is registered by the DK6 as key up and key down and sends the KeyModule's command assigned to current Dk6Pcb Layer.
 
-
+KeyHold:
+When a user's keystroke is registered by the DK6 as a key down and sends the KeyModule's command assigned to current Dk6Pcb Layer.
